@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStudio1", "CSharpStudio1\CSharpStudio1.csproj", "{35692750-385A-4997-980E-44FD54AFB4FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpStudio1", "CSharpStudio1\CSharpStudio1.csproj", "{35692750-385A-4997-980E-44FD54AFB4FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadTrip", "RoatTrip\RoadTrip.csproj", "{B2B8F576-0D7B-40AD-93A1-EF313BE32124}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{35692750-385A-4997-980E-44FD54AFB4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35692750-385A-4997-980E-44FD54AFB4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35692750-385A-4997-980E-44FD54AFB4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B8F576-0D7B-40AD-93A1-EF313BE32124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B8F576-0D7B-40AD-93A1-EF313BE32124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B8F576-0D7B-40AD-93A1-EF313BE32124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B8F576-0D7B-40AD-93A1-EF313BE32124}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
